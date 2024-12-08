@@ -12,3 +12,5 @@ Features:
 - Dynamic expense total calculation for quick financial insights.
 
 This project serves as a learning exercise for understanding ASP.NET Core fundamentals, MVC patterns, and Razor views.
+
+# Screenshots
