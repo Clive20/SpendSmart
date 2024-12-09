@@ -14,3 +14,8 @@ Features:
 This project serves as a learning exercise for understanding ASP.NET Core fundamentals, MVC patterns, and Razor views.
 
 # Screenshots
+![Screenshot 2024-12-09 230848](https://github.com/user-attachments/assets/aef45ad2-2141-4505-a807-7546c2cc0d0d)
+
+![Screenshot 2024-12-09 231014](https://github.com/user-attachments/assets/e5feb2d8-b3f2-4b50-b21e-c131c7e07c52)
+
+![Screenshot 2024-12-09 231035](https://github.com/user-attachments/assets/1b743a59-6fa2-49ef-9128-92bf2232a812)
